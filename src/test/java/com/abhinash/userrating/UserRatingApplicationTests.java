@@ -1,4 +1,4 @@
-package com.babrak.userrating;
+package com.abhinash.userrating;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
